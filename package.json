@@ -13,7 +13,7 @@
     "jade",
     "stylus"
   ],
-  "author": "The Yeoman Team, Chai Yu Pai",
+  "author": "Chai Yu Pai",
   "main": "app/index.js",
   "repository": "fantasywind/generator-angular-jade-stylus",
   "scripts": {
